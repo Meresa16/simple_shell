@@ -102,5 +102,5 @@
 
 ## Authors
 
-- Manuel-kl & MiriamShe
+- Meresa, Manuel-kl $ MiriamShe
 
